@@ -1,7 +1,5 @@
 {
-  "name": "Health@Work",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "Health@Work :)",
+  "integrations": {},
   "type": "angular"
 }
